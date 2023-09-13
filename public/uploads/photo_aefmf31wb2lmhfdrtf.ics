@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Englishdom//Английский по Скайпу//EN
+BEGIN:VEVENT
+UID:474e8afd7fc417c665c769a883e4dc91-82@https://www.englishdom.com
+SEQUENCE:0
+DTSTAMP:20230919T100000
+DTSTART:20230919T100000
+DTEND:20230919T105000
+SUMMARY:Englishdom: Разговорный клуб Englishdom - Term 2: Let’s get acquainted
+ORGANIZER;CN="Павел":mailto:kachurovskiy.p@gmail.com
+DESCRIPTION:Тема - Term 2: Let’s get acquainted \n Викладач - Anna Pash \n Let’s get acquainted / Verb be: am, is, are. \n Викладач - Anna Pash \n Let’s get acquainted / Verb be: am, is, are.
+END:VEVENT
+END:VCALENDAR
